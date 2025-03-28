@@ -10667,3 +10667,16 @@ p.text-black {
 	    
     }
 }
+
+/* mnsi */
+.s{
+	padding: 25px 10px 20px 10px;
+    color: white;
+    font-size: 35px;
+	text-justify: justify;
+}
+
+.code{
+	color: black;
+
+}
