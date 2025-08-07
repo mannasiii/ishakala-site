@@ -2799,7 +2799,8 @@ button#searchsubmit{
 
 .exp-home2-banner.bg-2{
 
-	background-image:url('../images/home/slider1.png');
+	/* background-image:url('../images/home/slider1.png'); */
+	background-image: url('/assets/images/ganu-idol/ganpti-slider-1.jpg');
 
 	background-size:cover;
 	
