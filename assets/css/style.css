@@ -10768,3 +10768,7 @@ h3.b {
     opacity: 1;
   }
 }
+
+.pd{
+	padding: 0px !important;
+}
