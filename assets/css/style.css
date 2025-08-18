@@ -2774,7 +2774,8 @@ button#searchsubmit{
 	max-width:900px;
 
 	margin:0 auto;
-	    background: #d3251ebd;
+	    /* background: #d3251ebd; */
+		background: #d3251e80;
     padding: 20px;
 
 }
@@ -2799,8 +2800,8 @@ button#searchsubmit{
 
 .exp-home2-banner.bg-2{
 
-	/* background-image:url('../images/home/slider1.png'); */
-	background-image: url('/assets/images/ganu-idol/ganpti-slider-1.jpg');
+	background-image:url('../images/home/ganpti-slider-2.jpg');
+	/* background-image: url('/assets/images/ganu-idol/ganpti-slider-1.jpg'); */
 
 	background-size:cover;
 	
@@ -8457,7 +8458,7 @@ margin-bottom: 15px;
 
 .exp-footer-style-2 .exp-footer-item-left{
 
-padding-right:50px;
+padding-right:35px;
 
 }
 
