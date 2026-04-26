@@ -10829,3 +10829,39 @@ h3.b {
 	  font-size: 30px;
     /* margin: -5px 0px 2px 2px; */
 }
+
+/* new */
+.follow-strip {
+    background: #000;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 10px 0;
+}
+
+.follow-track {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    animation: scrollText 15s linear infinite;
+}
+
+.follow-track span {
+    margin-right: 80px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* smooth infinite scroll */
+@keyframes scrollText {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-33.33%);
+    }
+}
+
+.follow-track {
+    display: flex;
+    width: max-content;
+}
